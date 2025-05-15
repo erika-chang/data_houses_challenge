@@ -36,7 +36,7 @@ Public Leaderboard Score: XXXX (update with your score)
 ## 🛠 Technologies Used
 Python (Pandas, NumPy, Scikit-learn)
 
-XGBoost, scikit-learn
+XGBoost
 
 Matplotlib, Seaborn
 
