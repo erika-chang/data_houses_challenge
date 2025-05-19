@@ -11,7 +11,7 @@ Accurately predicting house prices is a classic regression problem. Using a rich
 │   ├── test.csv
 │   └── sample_submission.csv
 ├── notebooks/             # Jupyter notebooks for EDA, modeling, etc.
-│   ├── 01_eda.ipynb
+│   ├── EDA - Data Houses.ipynb
 ├── outputs/               # Plots, evaluation metrics, and submission files
 │   └── submission.csv
 ├── requirements.txt       # Project dependencies
