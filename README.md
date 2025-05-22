@@ -31,7 +31,7 @@ Model Evaluation: Using cross-validation and RMSE (Root Mean Squared Error) to e
 Ensembling: Combining multiple models to improve prediction accuracy.
 
 ## 📈 Best Score
-Public Leaderboard Score: XXXX (update with your score)
+Public Leaderboard Score: 
 
 ## 🛠 Technologies Used
 Python (Pandas, NumPy, Scikit-learn)
